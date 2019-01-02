@@ -1,8 +1,9 @@
 # Resources
 Collecting resources for development.
 
-# JavaScript
+# JavaScript / ECMAScript
 - [ ] :hourglass_flowing_sand: https://github.com/leonardomso/33-js-concepts
+- [ ] :hourglass_flowing_sand: https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 
 # Reactive programming
 - [ ] https://gist.github.com/staltz/868e7e9bc2a7b8c1f754

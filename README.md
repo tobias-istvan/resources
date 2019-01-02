@@ -1,5 +1,8 @@
-# resources
+# Resources
 Collecting resources for development.
+
+# JavaScript
+- [ ] :hourglass_flowing_sand: https://github.com/leonardomso/33-js-concepts
 
 # Reactive programming
 - [ ] https://gist.github.com/staltz/868e7e9bc2a7b8c1f754

@@ -18,6 +18,7 @@ Collecting resources for development.
 - [ ] https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
 
 # ReactJs
+- [ ] https://medium.mybridge.co/learn-react-js-from-top-50-articles-for-the-past-year-v-2019-baaacfc521c
 - [x] https://www.youtube.com/watch?v=Ke90Tje7VS0
 - [x] https://reactjs.org/docs/state-and-lifecycle.html
 - [x] https://reactjs.org/docs/error-boundaries.html
@@ -27,3 +28,6 @@ Collecting resources for development.
 
 # Functional programming
 - [ ] :hourglass_flowing_sand: https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
+
+# Go
+- [ ] https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86

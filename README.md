@@ -8,10 +8,12 @@ Collecting resources for development.
 # Reactive programming
 - [ ] https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 
-# Angular 4
+# Angular
 ## Mock data, testing
 - [ ] https://shermandigital.com/blog/in-memory-web-api-for-testing-angular-apps/
 - [x] https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html
+- [x] https://engineering.datorama.com/spectator-for-angular-or-how-i-learned-to-stop-worrying-and-love-the-spec-2aa8521c8488
+
 ## States
 - [ ] https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
 

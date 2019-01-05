@@ -4,6 +4,7 @@ Collecting resources for development.
 # JavaScript / ECMAScript
 - [ ] :hourglass_flowing_sand: https://github.com/leonardomso/33-js-concepts
 - [ ] :hourglass_flowing_sand: https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+- [ ] https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20
 
 # Reactive programming
 - [ ] https://gist.github.com/staltz/868e7e9bc2a7b8c1f754

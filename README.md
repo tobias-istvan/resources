@@ -33,3 +33,6 @@ Collecting resources for development.
 
 # Go
 - [ ] https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86
+
+# Testing
+- [x] https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c

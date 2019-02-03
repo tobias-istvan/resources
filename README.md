@@ -37,3 +37,4 @@ Collecting resources for development.
 # Testing
 - [x] https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c
 - [x] https://github.com/sapegin/jest-cheat-sheet
+- [x] https://medium.com/codeclan/mocking-es-and-commonjs-modules-with-jest-mock-37bbb552da43

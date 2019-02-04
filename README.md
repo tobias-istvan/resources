@@ -24,6 +24,7 @@ Collecting resources for development.
 - [x] https://www.youtube.com/watch?v=Ke90Tje7VS0
 - [x] https://reactjs.org/docs/state-and-lifecycle.html
 - [x] https://reactjs.org/docs/error-boundaries.html
+- [x] https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8
 
 # Restify
 - [x] https://gist.github.com/LeCoupa/0664e885fd74152d1f90 (Restify cheatshets)

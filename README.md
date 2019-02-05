@@ -30,6 +30,7 @@ Collecting resources for development.
 - [x] https://daveceddia.com/what-is-a-thunk/
 - [x] https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8
 - [x] https://medium.com/@shoshanarosenfield/redux-thunk-vs-redux-saga-93fe82878b2d
+- [x] https://medium.com/magnetis-backstage/redux-side-effects-and-me-89c104a4b149
 
 # Restify
 - [x] https://gist.github.com/LeCoupa/0664e885fd74152d1f90 (Restify cheatshets)
